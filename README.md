@@ -176,5 +176,3 @@ export default {
 // 在对应组件调用即可
 const debounceMyFunction = debounce(myFunction, 1000);
 ```
-
-# ginso
